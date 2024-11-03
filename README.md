@@ -37,7 +37,7 @@ In the asset inventory spreadsheet, find the Asset column header. Consider the d
 
 Choose three devices that are not already listed in the spreadsheet and add them to the empty rows in the Asset column.
 
-### Fill in the characteristics of each asset
+### Step 3: Fill in the characteristics of each asset
 List important characteristics, including Network access, Owner, and Location for each asset that you’ve identified.
 
 Here’s an explanation of each characteristic: 
